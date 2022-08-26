@@ -1,4 +1,4 @@
-# MastermindExercise
+# Mastermind Exercise (by Mark Otterson)
 
 A Mastermind Game created in response to a Programming Exercise prompt.
 
